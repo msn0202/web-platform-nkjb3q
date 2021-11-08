@@ -22,14 +22,17 @@ body{
 
 }
 h5{
-  /* padding: 13px 70px; */
+ 
   position: relative;
-  /* bottom: 31px; */
+  bottom: 7px; 
   left: 90px;
-top:13px;
+top:-26px;
   color:#fffcfb ;
   font-size: 16px;
   font-weight: bold;
+}
+img{
+
 }
 .menu{
   width: 50%;    
@@ -40,7 +43,7 @@ top:13px;
 }
 .menu ul li a{
   float: left;
-  padding: 10px 40px;
+  padding: 12px 40px;
   text-decoration: none;
   /* padding: 10px 10px 69px 100px; */
 
@@ -57,11 +60,10 @@ color: #ffffff;
 .menu ul li a:hover{ 
   background-color: #b171c8;
   text-align: center;
-  /* position:relative; */
-   left: -10px;  
-   height: 1%; 
-
-   margin-top: 10px;
+  margin-top: 10px;
+  
+   
+  
 }
 
 .cont{
@@ -105,7 +107,7 @@ hr{
 }
 h6{
   position: relative;
-  top:10px;
+  top:20px;
   text-align: center;
 color:#e5e5e5 ;
 font-size: 16px;
